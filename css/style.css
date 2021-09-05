@@ -14,6 +14,24 @@ a{
   text-decoration: none;
 }
 
+.slider{
+  width: 110px;
+  margin-top: 40px;
+}
+
+.slider-item{
+  width: 10px;
+  height: 10px;
+  background: #E3E6E8;
+  border-radius: 50%;
+}
+
+.slider-item-active{
+  width: 55px;
+  background-color: #00CCCC;
+  border-radius: 15px;
+}
+
 body{
   font-family: 'Roboto', sans-serif;
 }
